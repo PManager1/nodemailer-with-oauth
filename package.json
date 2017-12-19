@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemailer": "^4.4.1",
+    "xoauth2": "^1.2.0"
+  }
+}
